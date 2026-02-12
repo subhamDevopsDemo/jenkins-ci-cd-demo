@@ -12,6 +12,7 @@ import org.springframework.test.web.servlet.result.MockMvcResultMatchers;
 @AutoConfigureMockMvc
 class JenkinsCiCdDemoApplicationTests {
 
+
 	@Autowired
 	private MockMvc mockMvc;
 
